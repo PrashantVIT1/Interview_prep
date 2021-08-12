@@ -1,1 +1,1 @@
-This repo contains question related to interview 
+This repo contains question for revision anytime anywhere
